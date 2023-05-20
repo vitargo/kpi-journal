@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Вісник НТУУ “КПІ імені Ігоря Сікорського”. Серія: Хімічна інженерія, екологія та ресурсозбереження</string>
+    <string name="article_name">Articles</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_open">Open</string>
+    <string name="button_ok">Ok</string>
+    <string name="saved_high_result">check_box_result</string>
+    <string name="not_show">Don\'t show again</string>
+    <string name="pop_up_msg">“Education is the movement from darkness to light.” – Allan Bloom</string>
+</resources>
