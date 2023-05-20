@@ -60,7 +60,7 @@ public class ArticleListTask extends AsyncTask<String, Void, List<Article>> {
         } catch (IOException e) {
             activity.runOnUiThread(new Runnable() {
                 public void run() {
-                    Toast.makeText(activity, "Internet Connection Lost! You can just see the history!", Toast.LENGTH_LONG).show();
+                    Toast.makeText(activity, "Error on Parsing Journal!", Toast.LENGTH_LONG).show();
                 }
             });
             e.printStackTrace();
